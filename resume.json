@@ -1,37 +1,96 @@
 {
-	"name" : "Homer Jay Simpson",
-	"contact" : "chunkylover53@aol.com",
-	"title" : "Safety Inspector",
+	"name" : "Mehan Jayasuriya",
+	"contact" : "mehan.j@gmail.com | 202.713.9158",
+	"title" : "Creative Technologist, Writer and Editor, Policy Analyst",
 	"objective" : "To be happy.",
 	"aboutme" : "I love beer, doughnuts, and all things fried.",
 	"social" : [
 		{
-			"link" : "http://www.linkedin.com/in/homerjsimpson",
-			"name" : "LinkedIn"
+			"link" : "http://mehan.info",
+			"name" : "mehan.info"
 		},
 		{
-			"link" : "https://twitter.com/HomerJSimpson",
+			"link" : "http://github.com/mehan",
+			"name" : "github"
+		},
+		{
+			"link" : "http://twitter.com/mehan_j",
 			"name" : "twitter"
-		},
-		{
-			"link" : "https://github.com/bittersweetryan/jsonmue",
-			"name" : "this.source"
 		}
 	],
 	"skills" : [
-		"Eating",
-		"Sleeping",
-		"Bowling"
+		"HTML5",
+		"CSS3",
+		"JavaScript",
+		"Python",
+		"Git/GitHub",
+		"Heroku",
+		"R",
+		"SQL"
 	],
 	"frameworks" : [
 		"D'oh! What's a framework?"
 	],
 	"projects" : [
 		{
+			"name" : "GOEMUL",
+			"technologies" : "Processing, Java, Animtata, Photoshop",
+			"description" : "An audio-reactive performance consisting of animations synced to live music. 
+Performed at the IAC in New York City as part of the Big Screens 2012 show, 2013. 
+"
+		},
+
+		{
 			"name" : "Boxcar Racer",
 			"technologies" : "wood, and plastic",
 			"description" : "Helped Bart build a boxcar racer, but Martin's was better."
-		}
+		},
+
+				{
+			"name" : "Boxcar Racer",
+			"technologies" : "wood, and plastic",
+			"description" : "Helped Bart build a boxcar racer, but Martin's was better."
+		},
+
+				{
+			"name" : "Boxcar Racer",
+			"technologies" : "wood, and plastic",
+			"description" : "Helped Bart build a boxcar racer, but Martin's was better."
+		},
+
+				{
+			"name" : "Boxcar Racer",
+			"technologies" : "wood, and plastic",
+			"description" : "Helped Bart build a boxcar racer, but Martin's was better."
+		},
+
+				{
+			"name" : "Boxcar Racer",
+			"technologies" : "wood, and plastic",
+			"description" : "Helped Bart build a boxcar racer, but Martin's was better."
+		},
+
+				{
+			"name" : "Boxcar Racer",
+			"technologies" : "wood, and plastic",
+			"description" : "Helped Bart build a boxcar racer, but Martin's was better."
+		},
+
+				{
+			"name" : "Boxcar Racer",
+			"technologies" : "wood, and plastic",
+			"description" : "Helped Bart build a boxcar racer, but Martin's was better."
+		},
+
+				{
+			"name" : "Boxcar Racer",
+			"technologies" : "wood, and plastic",
+			"description" : "Helped Bart build a boxcar racer, but Martin's was better."
+		},
+
+
+
+
 	],
 	"experience" : [
 		{
