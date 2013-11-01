@@ -45,13 +45,13 @@ nav {
     padding: 0px;
     text-align: center; }
   nav li {
-    color: white;
     padding: 0 1.1em 0 1.1em;
     display: inline;
     border-right: 1px dashed #999999;
     text-shadow: black 0px 1px 0px; }
     nav li.last {
       border-right: 0 none; }
+  nav a {color: white;}
 
 section ul {
   width: 800px;
